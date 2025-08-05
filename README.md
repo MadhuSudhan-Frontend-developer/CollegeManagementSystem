@@ -34,18 +34,18 @@ This system supports **user registration**, **login**, **admin course management
 
 ## 🗂️ Folder Structure
 
-src/
-└── main/
-    ├── java/
-    │   └── com/collegemanagemant/
-    │       ├── controller/
-    │       ├── entity/
-    │       ├── repository/
-    │       ├── service/
-    │       └── CollegeUserApplication.java
-    └── resources/
-        ├── application.properties
-        └── templates/  (JSPs if configured)
+# src/
+#└── main/
+#    ├── java/
+#    │   └── com/collegemanagemant/
+#    │       ├── controller/
+#    │       ├── entity/
+#    │       ├── repository/
+#    │       ├── service/
+#    │       └── CollegeUserApplication.java
+#    └── resources/
+#    ├── application.properties
+#    └── templates/  (JSPs if configured)
         
 ## PROGRAMING START
 
