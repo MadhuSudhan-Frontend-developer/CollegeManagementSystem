@@ -52,6 +52,9 @@ This system supports **user registration**, **login**, **admin course management
 
 
 
+
+
+
 src/
 └── main/
 ├── java/
@@ -96,9 +99,6 @@ debug=true
 You can run from your IDE or using terminal:
 
 ./mvnw spring-boot:run
-
-
-
 
 
 
