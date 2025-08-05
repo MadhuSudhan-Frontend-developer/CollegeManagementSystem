@@ -30,28 +30,6 @@ This system supports **user registration**, **login**, **admin course management
 
 ---
 
-## 🗃️ Folder Structure
-<img width="400" height="500" alt="Screenshot 2025-08-05 155201" src="https://github.com/user-attachments/assets/36d793ed-021a-41da-8404-c03648d8ea78" />
-
-
-
-
-
-
-## 🗃️ WEBAPP STRUCTURE
-<img width="400" height="500" alt="Screenshot 2025-08-05 155226" src="https://github.com/user-attachments/assets/fec32963-2172-4659-bad3-7fc81767a863" />
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -99,6 +77,31 @@ debug=true
 You can run from your IDE or using terminal:
 
 ./mvnw spring-boot:run
+
+
+
+
+
+
+
+## 🗃️ Folder Structure
+<img width="400" height="500" alt="Screenshot 2025-08-05 155201" src="https://github.com/user-attachments/assets/36d793ed-021a-41da-8404-c03648d8ea78" />
+
+
+
+
+
+
+## 🗃️ WEBAPP STRUCTURE
+<img width="400" height="500" alt="Screenshot 2025-08-05 155226" src="https://github.com/user-attachments/assets/fec32963-2172-4659-bad3-7fc81767a863" />
+
+
+
+
+
+
+
+
 
 
 
