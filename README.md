@@ -33,43 +33,43 @@ This system supports **user registration**, **login**, **admin course management
 
 
 
-src/
-└── main/
-├── java/
-│ └── com/collegemanagemant/
-│ ├── controller/
-│ ├── entity/
-│ ├── repository/
-│ ├── service/
-│ └── CollegeUserApplication.java
-└── resources/
-├── application.properties
-└── templates/ (JSPs if configured)
+## Src/
+## └── main/
+## ├── java/
+## │ └── com/collegemanagemant/
+## │ ├── controller/
+## │ ├── entity/
+## │ ├── repository/
+## │ ├── service/
+## │ └── CollegeUserApplication.java
+## └── resources/
+## ├── application.properties
+## └── templates/ (JSPs if configured)
 
-PROGRAMING START
+## PROGRAMING START
 
 
-2️⃣ Configure MySQL
-Update your application.properties:
+## 2️⃣ Configure MySQL
+## Update your application.properties:
 
-spring.application.name=loginAndRegister
+## spring.application.name=loginAndRegister
 
-# Server settings
-server.port=8082
-spring.mvc.view.prefix=/WEB-INF/views/
-spring.mvc.view.suffix=.jsp
+##  Server settings
+# server.port=8082
+# spring.mvc.view.prefix=/WEB-INF/views/
+# spring.mvc.view.suffix=.jsp
 
 # Database configuration
-spring.datasource.url=jdbc:mysql://localhost:3306/college_management
-spring.datasource.username=root
-spring.datasource.password=
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.jpa.hibernate.ddl-auto=update
+# spring.datasource.url=jdbc:mysql://localhost:3306/college_management
+# spring.datasource.username=root
+# spring.datasource.password=
+# spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+# spring.jpa.hibernate.ddl-auto=update
 
 
-spring.servlet.multipart.enabled=true
-spring.servlet.multipart.max-file-size=20MB
-spring.servlet.multipart.max-request-size=50MB
+# spring.servlet.multipart.enabled=true
+# spring.servlet.multipart.max-file-size=20MB
+# spring.servlet.multipart.max-request-size=50MB
 
 debug=true
 
