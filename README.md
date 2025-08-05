@@ -32,6 +32,31 @@ This system supports **user registration**, **login**, **admin course management
 
 ## 🗃️ Folder Structure
 <img width="646" height="707" alt="Screenshot 2025-08-05 155226" src="https://github.com/user-attachments/assets/905788f2-0123-4525-a031-41cfa5223942" />
+
+
+
+
+
+## 🗃️ WEBAPP STRUCTURE
+<img width="646" height="707" alt="Screenshot 2025-08-05 155226" src="https://github.com/user-attachments/assets/fec32963-2172-4659-bad3-7fc81767a863" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 src/
 └── main/
 ├── java/
