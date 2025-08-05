@@ -1,4 +1,4 @@
-# 🎓 College Management System
+<img width="2835" height="1570" alt="Screenshot 2025-08-05 171439" src="https://github.com/user-attachments/assets/a6470557-3a79-4562-a970-17c7520de32d" /># 🎓 College Management System
 
 A Spring Boot + JSP based web application for managing college users, courses, and videos.  
 This system supports **user registration**, **login**, **admin course management**, and **video playback** based on the selected branch.
@@ -99,9 +99,14 @@ You can run from your IDE or using terminal:
 
 
 
+<img width="2835" height="1570" alt="Screenshot 2025-08-05 171439" src="https://github.com/user-attachments/assets/1b7267df-7952-4912-84e7-c06aac3f75c0" />
 
 
 
+<img width="2876" height="1369" alt="Screenshot 2025-08-05 171452" src="https://github.com/user-attachments/assets/95287f5f-a324-4ac0-90ab-52b93fa04311" />
+
+
+<img width="2878" height="1527" alt="Screenshot 2025-08-05 171504" src="https://github.com/user-attachments/assets/213a936d-6211-4141-8f69-1ac946f9c0f6" />
 
 
 
