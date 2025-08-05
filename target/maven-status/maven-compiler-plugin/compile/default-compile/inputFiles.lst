@@ -1,0 +1,12 @@
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\CollegeUserApplication.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\controller\AdminController.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\controller\UserController.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\entity\Course.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\entity\User.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\entity\Video.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\repository\CourseRepository.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\repository\UserRepository.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\repository\VideoRepository.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\service\CourseService.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\service\UserService.java
+D:\java\Spring_Oho\loginAndRegister\src\main\java\com\collegemanagemant\service\VideoService.java
