@@ -113,8 +113,10 @@ You can run from your IDE or using terminal:
 
 <img width="2878" height="1527" alt="Screenshot 2025-08-05 171504" src="https://github.com/user-attachments/assets/213a936d-6211-4141-8f69-1ac946f9c0f6" />
 
+<img width="2823" height="1387" alt="Screenshot 2025-08-05 201325" src="https://github.com/user-attachments/assets/b02fa2a2-9d56-4d19-a6da-94cbfb3584fd" />
 
 
+<img width="2863" height="940" alt="Screenshot 2025-08-05 201905" src="https://github.com/user-attachments/assets/d5948921-707c-4b97-8d35-e87b45bcfb9d" />
 
 
 
