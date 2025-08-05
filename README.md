@@ -31,7 +31,8 @@ This system supports **user registration**, **login**, **admin course management
 ---
 
 ## 🗃️ Folder Structure
-<img width="646" height="707" alt="Screenshot 2025-08-05 155226" src="https://github.com/user-attachments/assets/905788f2-0123-4525-a031-41cfa5223942" />
+<img width="674" height="1440" alt="Screenshot 2025-08-05 155201" src="https://github.com/user-attachments/assets/36d793ed-021a-41da-8404-c03648d8ea78" />
+
 
 
 
